@@ -1,0 +1,3 @@
+# don't upload raw data files to save space
+raw/*
+.ipynb_checkpoints/
